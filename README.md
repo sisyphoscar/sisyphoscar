@@ -1,4 +1,4 @@
-Hello 🙌🏻 I'm Oscar, your friendly Backend Engineer at Ocard.
+Hello 🙌🏻 I'm Oscar, your friendly backend engineer at Ocard.
 
 📝 Passionate about problem-solving, continuous learning, and sharing knowledge.
 
