@@ -1,4 +1,4 @@
-Hello 🙌🏻 I'm Oscar, your friendly backend engineer at Ocard.
+Hello 🙌🏻 I'm Oscar, your friendly backend engineer at Shopline.
 
 📝 Passionate about problem-solving, continuous learning, and sharing knowledge.
 
